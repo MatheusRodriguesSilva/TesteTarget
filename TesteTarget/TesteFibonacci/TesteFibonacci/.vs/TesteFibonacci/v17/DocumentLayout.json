@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Rodrigues\\Desktop\\TesteTarget\\Teste Fibonacci\\TesteFibonacci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D40B93-35AE-4649-997F-D54A27FA81EB}|TesteFibonacci\\TesteFibonacci.csproj|c:\\users\\matheus rodrigues\\desktop\\testetarget\\teste fibonacci\\testefibonacci\\testefibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D40B93-35AE-4649-997F-D54A27FA81EB}|TesteFibonacci\\TesteFibonacci.csproj|solutionrelative:testefibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Rodrigues\\Desktop\\TesteTarget\\Teste Fibonacci\\TesteFibonacci\\TesteFibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "TesteFibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Rodrigues\\Desktop\\TesteTarget\\Teste Fibonacci\\TesteFibonacci\\TesteFibonacci\\Program.cs",
+              "RelativeToolTip": "TesteFibonacci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:11:49.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

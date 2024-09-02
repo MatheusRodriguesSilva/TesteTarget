@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Faturamento>
+	<Dia data="2024-09-01" valor="5000.00"/>
+	<Dia data="2024-09-02" valor="7000.00"/>
+	<Dia data="2024-09-03" valor="0.00"/>
+	<Dia data="2024-09-04" valor="0.00"/>
+	<Dia data="2024-09-05" valor="6000.00"/>
+	<!-- Adicione mais dias conforme necessário -->
+</Faturamento>

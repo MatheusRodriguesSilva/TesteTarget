@@ -1,0 +1,14 @@
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\bin\Debug\net8.0\Teste Soma.exe
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\bin\Debug\net8.0\Teste Soma.deps.json
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\bin\Debug\net8.0\Teste Soma.runtimeconfig.json
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\bin\Debug\net8.0\Teste Soma.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\bin\Debug\net8.0\Teste Soma.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.AssemblyInfoInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.AssemblyInfo.cs
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\refint\Teste Soma.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\Teste Soma.genruntimeconfig.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteSoma\Teste Soma\Teste Soma\obj\Debug\net8.0\ref\Teste Soma.dll

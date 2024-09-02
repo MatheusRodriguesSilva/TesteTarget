@@ -1,0 +1,14 @@
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\bin\Debug\net8.0\TesteFaturamento.exe
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\bin\Debug\net8.0\TesteFaturamento.deps.json
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\bin\Debug\net8.0\TesteFaturamento.runtimeconfig.json
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\bin\Debug\net8.0\TesteFaturamento.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\bin\Debug\net8.0\TesteFaturamento.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.AssemblyInfoInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.AssemblyInfo.cs
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\refint\TesteFaturamento.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\TesteFaturamento.genruntimeconfig.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TestFaturamento\TesteFaturamento\TesteFaturamento\obj\Debug\net8.0\ref\TesteFaturamento.dll

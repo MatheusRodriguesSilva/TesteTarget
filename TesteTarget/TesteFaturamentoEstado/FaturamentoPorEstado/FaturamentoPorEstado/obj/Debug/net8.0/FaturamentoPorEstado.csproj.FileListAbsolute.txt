@@ -1,0 +1,14 @@
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\bin\Debug\net8.0\FaturamentoPorEstado.exe
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\bin\Debug\net8.0\FaturamentoPorEstado.deps.json
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\bin\Debug\net8.0\FaturamentoPorEstado.runtimeconfig.json
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\bin\Debug\net8.0\FaturamentoPorEstado.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\bin\Debug\net8.0\FaturamentoPorEstado.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.AssemblyInfoInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.AssemblyInfo.cs
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\refint\FaturamentoPorEstado.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\FaturamentoPorEstado.genruntimeconfig.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteFaturamentoEstado\FaturamentoPorEstado\FaturamentoPorEstado\obj\Debug\net8.0\ref\FaturamentoPorEstado.dll

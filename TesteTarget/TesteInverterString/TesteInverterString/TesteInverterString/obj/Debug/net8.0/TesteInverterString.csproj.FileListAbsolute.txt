@@ -1,0 +1,14 @@
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\bin\Debug\net8.0\TesteInverterString.exe
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\bin\Debug\net8.0\TesteInverterString.deps.json
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\bin\Debug\net8.0\TesteInverterString.runtimeconfig.json
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\bin\Debug\net8.0\TesteInverterString.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\bin\Debug\net8.0\TesteInverterString.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.AssemblyInfoInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.AssemblyInfo.cs
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\refint\TesteInverterString.dll
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.pdb
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\TesteInverterString.genruntimeconfig.cache
+C:\Users\Matheus Rodrigues\Desktop\TesteTarget\TesteInverterString\TesteInverterString\TesteInverterString\obj\Debug\net8.0\ref\TesteInverterString.dll
